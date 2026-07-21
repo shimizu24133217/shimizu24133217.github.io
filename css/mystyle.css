@@ -180,10 +180,16 @@ section p {
 }
 
 
-article>h2,
-article>ul,
-article>p {
+article > h1,
+article > h2,
+article > ul,
+article > p {
     width: 100%;
+}
+
+article > h1{
+    text-align: center;
+    color: #d96c8f;
 }
 
 article>h2 {
