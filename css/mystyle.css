@@ -223,3 +223,45 @@ a:active {
         display: none;
     }
 }
+
+.update-box{
+    width: 700px;
+    margin: 30px auto;
+    padding: 20px 30px;
+    border: 2px solid #f6bfd4;
+    border-radius: 20px;
+    background-color: white;
+}
+.daily-img{
+    width:100%;
+    max-width:450px;
+    height:auto;
+    display:block;
+    margin:20px auto;
+    border-radius:15px;
+}
+
+.daily-section{
+    width:100%;
+    max-width:1000px;
+    margin:30px auto;
+    padding:30px;
+    text-align:center;
+    background:#fff7fb;
+    border:3px solid #ffc0cd;
+    border-radius:20px;
+}
+
+.contents-list{
+    width:100% !important;
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:25px;
+    list-style:none;
+    padding:0;
+}
+
+.contents-list li{
+    margin:0;
+}
